@@ -1,0 +1,13 @@
+D:\Users\Anuj Jain\source\repos\03_Numbers\bin\Debug\netcoreapp3.1\03_Numbers.exe
+D:\Users\Anuj Jain\source\repos\03_Numbers\bin\Debug\netcoreapp3.1\03_Numbers.deps.json
+D:\Users\Anuj Jain\source\repos\03_Numbers\bin\Debug\netcoreapp3.1\03_Numbers.runtimeconfig.json
+D:\Users\Anuj Jain\source\repos\03_Numbers\bin\Debug\netcoreapp3.1\03_Numbers.runtimeconfig.dev.json
+D:\Users\Anuj Jain\source\repos\03_Numbers\bin\Debug\netcoreapp3.1\03_Numbers.dll
+D:\Users\Anuj Jain\source\repos\03_Numbers\bin\Debug\netcoreapp3.1\03_Numbers.pdb
+D:\Users\Anuj Jain\source\repos\03_Numbers\obj\Debug\netcoreapp3.1\03_Numbers.csprojAssemblyReference.cache
+D:\Users\Anuj Jain\source\repos\03_Numbers\obj\Debug\netcoreapp3.1\03_Numbers.AssemblyInfoInputs.cache
+D:\Users\Anuj Jain\source\repos\03_Numbers\obj\Debug\netcoreapp3.1\03_Numbers.AssemblyInfo.cs
+D:\Users\Anuj Jain\source\repos\03_Numbers\obj\Debug\netcoreapp3.1\03_Numbers.csproj.CoreCompileInputs.cache
+D:\Users\Anuj Jain\source\repos\03_Numbers\obj\Debug\netcoreapp3.1\03_Numbers.dll
+D:\Users\Anuj Jain\source\repos\03_Numbers\obj\Debug\netcoreapp3.1\03_Numbers.pdb
+D:\Users\Anuj Jain\source\repos\03_Numbers\obj\Debug\netcoreapp3.1\03_Numbers.genruntimeconfig.cache

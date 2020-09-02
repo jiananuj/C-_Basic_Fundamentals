@@ -1,0 +1,13 @@
+D:\Users\Anuj Jain\source\repos\02_String\bin\Debug\netcoreapp3.1\02_String.exe
+D:\Users\Anuj Jain\source\repos\02_String\bin\Debug\netcoreapp3.1\02_String.deps.json
+D:\Users\Anuj Jain\source\repos\02_String\bin\Debug\netcoreapp3.1\02_String.runtimeconfig.json
+D:\Users\Anuj Jain\source\repos\02_String\bin\Debug\netcoreapp3.1\02_String.runtimeconfig.dev.json
+D:\Users\Anuj Jain\source\repos\02_String\bin\Debug\netcoreapp3.1\02_String.dll
+D:\Users\Anuj Jain\source\repos\02_String\bin\Debug\netcoreapp3.1\02_String.pdb
+D:\Users\Anuj Jain\source\repos\02_String\obj\Debug\netcoreapp3.1\02_String.csprojAssemblyReference.cache
+D:\Users\Anuj Jain\source\repos\02_String\obj\Debug\netcoreapp3.1\02_String.AssemblyInfoInputs.cache
+D:\Users\Anuj Jain\source\repos\02_String\obj\Debug\netcoreapp3.1\02_String.AssemblyInfo.cs
+D:\Users\Anuj Jain\source\repos\02_String\obj\Debug\netcoreapp3.1\02_String.csproj.CoreCompileInputs.cache
+D:\Users\Anuj Jain\source\repos\02_String\obj\Debug\netcoreapp3.1\02_String.dll
+D:\Users\Anuj Jain\source\repos\02_String\obj\Debug\netcoreapp3.1\02_String.pdb
+D:\Users\Anuj Jain\source\repos\02_String\obj\Debug\netcoreapp3.1\02_String.genruntimeconfig.cache
