@@ -1,0 +1,12 @@
+D:\Users\Anuj Jain\source\repos\06_Collection\bin\Debug\netcoreapp3.1\06_Collection.exe
+D:\Users\Anuj Jain\source\repos\06_Collection\bin\Debug\netcoreapp3.1\06_Collection.deps.json
+D:\Users\Anuj Jain\source\repos\06_Collection\bin\Debug\netcoreapp3.1\06_Collection.runtimeconfig.json
+D:\Users\Anuj Jain\source\repos\06_Collection\bin\Debug\netcoreapp3.1\06_Collection.runtimeconfig.dev.json
+D:\Users\Anuj Jain\source\repos\06_Collection\bin\Debug\netcoreapp3.1\06_Collection.dll
+D:\Users\Anuj Jain\source\repos\06_Collection\bin\Debug\netcoreapp3.1\06_Collection.pdb
+D:\Users\Anuj Jain\source\repos\06_Collection\obj\Debug\netcoreapp3.1\06_Collection.AssemblyInfoInputs.cache
+D:\Users\Anuj Jain\source\repos\06_Collection\obj\Debug\netcoreapp3.1\06_Collection.AssemblyInfo.cs
+D:\Users\Anuj Jain\source\repos\06_Collection\obj\Debug\netcoreapp3.1\06_Collection.csproj.CoreCompileInputs.cache
+D:\Users\Anuj Jain\source\repos\06_Collection\obj\Debug\netcoreapp3.1\06_Collection.dll
+D:\Users\Anuj Jain\source\repos\06_Collection\obj\Debug\netcoreapp3.1\06_Collection.pdb
+D:\Users\Anuj Jain\source\repos\06_Collection\obj\Debug\netcoreapp3.1\06_Collection.genruntimeconfig.cache
